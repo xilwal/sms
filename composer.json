@@ -41,6 +41,5 @@
                 "Sms": "Xilwal\\Sms\\Facades\\Sms"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
