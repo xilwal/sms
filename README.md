@@ -5,8 +5,7 @@ Simple SMS Gateway Package for sending short text messages from your Application
 
 <ol>
       <pre><code> composer require xilwal/sms</code></pre>
-  <li>Edit the composer.json add to the require array & run composer update<br>
-                 Or
+  <li>Or Edit the composer.json add to the require array & run composer update<br>
       <pre><code> "xilwal/sms": "dev-master" </code></pre>
       <pre><code> composer update </code></pre>
   </li>
